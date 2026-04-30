@@ -6,3 +6,4 @@ users:list=[
     {'username':'eliza', 'location':'radom','posts':3,'usermessage':['zyczenia3','kocham legie2']},
     {'username':'filip', 'location':'dęblin','posts':4,'usermessage':['zyczenia4','kocham legie3','sprzedam opla3','kiwi3']},
 ]
+
