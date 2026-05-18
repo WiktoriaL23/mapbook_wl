@@ -7,6 +7,7 @@ while True:
     print('2 - dodaj znajomego')
     print('3 - usuń znajomego')
     print('4 - zmodyfikuj dane znajomego')
+    print('5 - pokaż mapę znajomych')
 
     choose=input('wybierz opcje: ')
     if choose =='0':
